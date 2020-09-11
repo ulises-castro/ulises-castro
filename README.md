@@ -1,4 +1,4 @@
-### Hi there, I'm Ulises Castro 👋
+### Hi there 👋, I'm Ulises Castro.
 
 
 :computer: ⚡ I am a code craftsman who loves reading, hiking, cycling, teaching, and of course, solving problems using code. :books: :bicyclist:
@@ -7,6 +7,7 @@ Something that I want to do is practice snowboard :snowboarder: and surfing :sur
 
 🌱 I’m currently learning javascript in the deep way, python, machine learning and golang...
 
+And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
 <!--
 **ulises-castro/ulises-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
