@@ -15,20 +15,6 @@ Something that I want to do is practice snowboard :snowboarder: and surfing :sur
 
 And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ulises-castro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ulisescastro_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/ulises-castro" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -84,6 +70,7 @@ And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
 </td></tr></table>  
 
 <br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ulises-castro" target="_blank">
