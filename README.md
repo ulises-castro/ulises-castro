@@ -1,8 +1,10 @@
 
 
 <p align="center">
-  <img width="300" src="https://imgur.com/asBsRjM">
+  <img width="250"  src="https://user-images.githubusercontent.com/17864276/111230195-d4715b80-85ac-11eb-9f68-1cc6431bdf9f.png">
 </p>
+
+
 
 ### Hi there 👋, I'm Ulises Castro.
 :computer: ⚡ I am a code craftsman who loves reading, hiking, cycling, teaching, and of course, solving problems using code. :books: :bicyclist:
