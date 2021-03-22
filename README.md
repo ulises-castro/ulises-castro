@@ -20,7 +20,7 @@ And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
 <table><tr><td valign="top" width="33%">
 
 
-### Frontend  
+### Frontend  15/
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -82,9 +82,6 @@ And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
 <a href="https://dev.to/ulises-castro" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
