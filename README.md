@@ -11,9 +11,10 @@
 
 Something that I want to do is practice snowboard :snowboarder: and surfing :surfer:
 
-🌱 I’m currently learning javascript in the deep way, python, machine learning and golang...
+🌱 I’m currently learning javascript in the deep way and python...
 
-And yes, I love Linux, Vim and Open Source :penguin: :octocat: :ok_hand:
+
+I love Linux, NeoVim and Open Source :penguin: :octocat: :ok_hand:
 
 
 ## My Skill Set  
