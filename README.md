@@ -6,7 +6,7 @@
 
 
 ### Hi there 👋, I'm Ulises Castro.
-:computer: ⚡ I am a code craftsman who loves reading, boxing, cycling, teaching, and of course, solving problems using code. :books: :bicyclist: 🥊 👨‍🏫
+:computer: ⚡ I am a code craftsman who loves reading, boxing, cycling, teaching, and of course: solving problems using code. :books: :bicyclist: 🥊 👨‍🏫
 
 
 🔭  I’m currently working on bulding some personal projects which will be publish comming soon as open source.
