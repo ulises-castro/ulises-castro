@@ -17,7 +17,7 @@
 
 <br/>  
 
-I love Linux, Software craftsmanship, NeoVim/Vim and Open Source :penguin: :octocat: 😍 :computer: 🏗️
+I love Linux, Software craftsmanship, NeoVim/Vim and Open Source :penguin: :octocat: 😍 💻 🏗️
 
 <br/>  
 
